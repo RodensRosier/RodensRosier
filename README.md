@@ -41,7 +41,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
@@ -51,7 +51,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=django,react" />
 </p>
 
@@ -63,6 +63,26 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<hr>
+
+## 🛠️ Herramientas & Tecnologías
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+<hr>
+
+## 🛠️ Análisis de Datos
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,powerbi,tableau" />
 </p>
 
 <hr>
