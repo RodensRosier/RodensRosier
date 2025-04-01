@@ -9,23 +9,20 @@
 
 ### Un Ingeniero Informático apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+• </> Me encuentro desarrollando **[Ararpi Chile](https://ararpi.com)**
+  • ¿...? Preguntame acerca de  **Base de Datos, CSS, Django, Git, HTML, JavaScript, Python, React JS, SASS...o cualquier cosa [acá](https://github.com/{RodensRosier}/{RodensRosier}/issues)**
 
 <br>
 
 <div align="center">
-  <a href="chijiokeokorji@gmail.com">
+  <a href="rodensrosier1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+  <a href="https://linkedin.com/in/RodensRosier" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  <a href="https://instagram.com/RodensRosier/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
 
