@@ -47,12 +47,12 @@
 
 <hr>
 
-## 🛠️ Desarrollo Web
+## 🛠️ Frameworks
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python" />
+  <img src="https://skillicons.dev/icons?i=django,react" />
 </p>
 
 <hr>
