@@ -40,6 +40,6 @@
 </p>
 
 <h3> Herramientas & Tecnologías</h3>
-<p>
+<span>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
+</span>
