@@ -9,9 +9,7 @@
 ### Un Ingeniero Informático apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.
 
 • </> Soy parte del equipo de desarrollo de **[Ararpi Chile](https://ararpi.com)**
-
 <br>
-
 
 ## Perfiles
 <div>
@@ -27,33 +25,21 @@
 </div>
 
 ## Lenguajes
-
-<br>
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
 </p>
 
 ## Frameworks & Librerías
-
-<br>
-
 <p>
   <img src="https://skillicons.dev/icons?i=django,react,sass" />
 </p>
 
 ## Bases de Datos
-
-<br>
-
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ## Herramientas & Tecnologías
-
-<br>
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
