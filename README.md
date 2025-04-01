@@ -1,5 +1,5 @@
 <div> 
-  <p>Visitantes</p>
+  <h2>Visitantes</h2>
   <img src="https://profile-counter.glitch.me/{RodensRosier}/count.svg" alt="Visitor's Count" />
 </div>
 <h1>
