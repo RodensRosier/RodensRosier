@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-## Herramientas & Tecnologías
+<h3> Herramientas & Tecnologías</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
