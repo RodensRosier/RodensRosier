@@ -27,13 +27,13 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languajes & Herramientas
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,css,django,git,github,html,javascript,python,react,sass" />
+  <img src="https://skillicons.dev/icons?i=mysql,css,django,git,github,html,javascript,python,react,sass" />
 </p>
 
 <hr>
