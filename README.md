@@ -24,20 +24,20 @@
   </a>
 </div>
 
-## Lenguajes
-<p>
+<h3>Lenguajes</h3>
+<span>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
-</p>
+</span>
 
-## Frameworks & Librerías
-<p>
+<h3>Frameworks & Librerías</h3>
+<span>
   <img src="https://skillicons.dev/icons?i=django,react,sass" />
-</p>
+</span>
 
-## Bases de Datos
-<p>
+<h3>Bases de Datos</h3>
+<span>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</span>
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
