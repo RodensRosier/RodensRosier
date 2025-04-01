@@ -10,14 +10,15 @@
 ### Un Ingeniero Informático apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.
 
 • </> Me encuentro desarrollando **[Ararpi Chile](https://ararpi.com)**
-<br>
-• ¿...? Preguntame acerca de  **Base de Datos, CSS, Django, Git, HTML, JavaScript, Python, React JS, SASS...o cualquier cosa [acá](https://github.com/{RodensRosier}/{RodensRosier}/issues)**
 
 <br>
 
 <div align="center">
   <a href="rodensrosier1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/rodensrosier" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
