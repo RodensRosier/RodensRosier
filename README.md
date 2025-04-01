@@ -9,10 +9,10 @@
 
 <h3>Estudiante de Ingeniería en Informática apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.</h3>
 
-• </> Soy parte del equipo de desarrollo de **[Ararpi Chile](https://ararpi.com)**
+<h4>•Fundador, presidente, CEO y parte del equipo de desarrollo de **[Ararpi Chile](https://ararpi.com)**</h4>
 <br>
 
-## Perfiles
+<h3>Perfiles</h3>
 <div>
   <a href="mailto:rodensrosier1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
