@@ -36,3 +36,33 @@
 </p>
 
 <hr>
+
+## 🛠️ Languajes de Programación
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python" />
+</p>
+
+<hr>
+
+## 🛠️ Desarrollo Web
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python" />
+</p>
+
+<hr>
+
+## 🛠️ Base de Datos
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<hr>
