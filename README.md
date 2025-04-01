@@ -33,7 +33,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,css,django,git,github,html,javascript,python,react,sass" />
-  <img src="https://skillicons.dev/icons?i=mysql,css,django,git,github,html,javascript,python,react,sass" />
 </p>
 
 <hr>
