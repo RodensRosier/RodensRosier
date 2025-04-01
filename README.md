@@ -27,37 +27,27 @@
 
 <hr>
 
-## 🛠️ Languajes & Herramientas
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,css,django,git,github,html,javascript,python,react,sass" />
-</p>
-
-<hr>
-
-## 🛠️ Languajes de Programación
+## Languajes
 
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
 </p>
 
 <hr>
 
-## 🛠️ Frameworks
+## Frameworks & Librerías
 
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react" />
+  <img src="https://skillicons.dev/icons?i=django,react,sass" />
 </p>
 
 <hr>
 
-## 🛠️ Base de Datos
+## Base de Datos
 
 <br>
 
@@ -67,22 +57,12 @@
 
 <hr>
 
-## 🛠️ Herramientas & Tecnologías
+## Herramientas & Tecnologías
 
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
-</p>
-
-<hr>
-
-## 🛠️ Análisis de Datos
-
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,powerbi,tableau" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 <hr>
