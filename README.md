@@ -1,4 +1,4 @@
-<div align="center"> 
+<div> 
   <p>Visitores</p>
   <img src="https://profile-counter.glitch.me/{RodensRosier}/count.svg" alt="Visitor's Count" />
 </div>
@@ -13,7 +13,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="rodensrosier1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,7 +27,7 @@
 
 <hr>
 
-## Languajes
+## Lenguajes
 
 <br>
 
@@ -47,7 +47,7 @@
 
 <hr>
 
-## Base de Datos
+## Bases de Datos
 
 <br>
 
