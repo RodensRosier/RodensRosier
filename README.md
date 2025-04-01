@@ -61,7 +61,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
