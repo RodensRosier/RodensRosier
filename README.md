@@ -9,7 +9,7 @@
 
 ### Un Ingeniero Informático apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.
 
-• </> Me encuentro desarrollando **[Ararpi Chile](https://ararpi.com)**
+• </> Soy parte del equipo de desarrollo de **[Ararpi Chile](https://ararpi.com)**
 
 <br>
 
