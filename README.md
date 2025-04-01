@@ -25,8 +25,6 @@
   </a>
 </div>
 
-<hr>
-
 ## Lenguajes
 
 <br>
@@ -34,8 +32,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
 </p>
-
-<hr>
 
 ## Frameworks & Librerías
 
@@ -45,8 +41,6 @@
   <img src="https://skillicons.dev/icons?i=django,react,sass" />
 </p>
 
-<hr>
-
 ## Bases de Datos
 
 <br>
@@ -55,8 +49,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<hr>
-
 ## Herramientas & Tecnologías
 
 <br>
@@ -64,5 +56,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
-
-<hr>
