@@ -20,6 +20,9 @@
   <a href="https://linkedin.com/in/rodensrosier" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   <a href="https://instagram.com/RodensRosier/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
