@@ -9,7 +9,7 @@
 
 <h3>Estudiante de Ingeniería en Informática apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.</h3>
 
-•Fundador, presidente, CEO y parte del equipo de desarrollo de **[Ararpi Chile] (https://ararpi.com)**
+###•Fundador, presidente, CEO y parte del equipo de desarrollo de **[Ararpi Chile] (https://ararpi.com)**
 <br>
 
 <h3>Perfiles</h3>
