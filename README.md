@@ -1,4 +1,3 @@
-
 <div> 
   <h3>Visitantes</h3>
   <img src="https://profile-counter.glitch.me/{RodensRosier}/count.svg" alt="Visitor's Count" />
@@ -37,7 +36,7 @@
 
 <h3>Bases de Datos</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
