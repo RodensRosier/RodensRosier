@@ -42,5 +42,5 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,npm,nginx,vscode,webpack" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,npm,nginx,vite,vscode,webpack" />
 </span>
