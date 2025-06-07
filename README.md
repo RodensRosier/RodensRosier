@@ -36,7 +36,7 @@
 
 <h3>Bases de Datos</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
