@@ -24,22 +24,17 @@
   </a>
 </div>
 
-<h3>Lenguajes</h3>
+<h3>Front End</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sass" />
 </span>
 
-<h3>Frameworks & Librerías</h3>
+<h3>Back End</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=django,react,sass" />
-</span>
-
-<h3>Bases de Datos</h3>
-<span>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,redis" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,npm,nginx,vite,vscode,webpack" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,npm,nginx,webpack" />
 </span>
