@@ -8,7 +8,7 @@
 
 <h3>Estudiante de Ingeniería en Informática, apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.</h3>
 
-•Creador de **[Ararpi](https://ararpi.com)**
+•Fundador de **[Ararpi Chile](https://ararpi.com)**
 <br>
 
 <h3>Contacto</h3>
