@@ -36,5 +36,5 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=aws,git,linux,nginx,webpack" />
+  <img src="https://skillicons.dev/icons?i=aws,cypress,docker,git,github,jenkins,jest,linux,nginx,npm,postman,vite,webpack" />
 </span>
