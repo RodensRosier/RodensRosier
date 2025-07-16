@@ -4,7 +4,7 @@
 
 <h3>Estudiante de Ingeniería en Informática, apasionado por crear Aplicaciones Webs hermosas, funcionales y centradas en el usuario.</h3>
 
-•Fundador & CEO de **[Ararpi Chile](https://ararpi.com)**
+•Fundador & CEO de **[Opplu](https://opplu.com)**
 <br>
 
 <h3>Contacto</h3>
@@ -20,17 +20,12 @@
   </a>
 </div>
 
-<h3>Front End</h3>
+<h3>Lenguaje</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sass" />
-</span>
-
-<h3>Back End</h3>
-<span>
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=Python" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=aws,cypress,docker,git,github,jenkins,jest,linux,nginx,npm,postman,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,linux,postman" />
 </span>
