@@ -22,7 +22,12 @@
 
 <h3>Lenguaje</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python, sql" />
+</span>
+
+<h3>Bases de Datos</h3>
+<span>
+  <img src="https://skillicons.dev/icons?i=mysql, mongodb, redis" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
