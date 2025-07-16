@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h3>Lenguaje</h3>
+<h3>Lenguajes</h3>
 <span>
   <img src="https://skillicons.dev/icons?i=python,sql" />
 </span>
