@@ -22,7 +22,7 @@
 
 <h3>Lenguaje</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=Python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
