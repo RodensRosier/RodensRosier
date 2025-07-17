@@ -27,10 +27,10 @@
 
 <h3>Bases de Datos</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </span>
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,airflow,spark,dbt,git,github,jenkins,linux,postman" />
 </span>
