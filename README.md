@@ -32,5 +32,5 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=aws,airflow,spark,dbt,git,github,jenkins,linux" />
+  <img src="https://skillicons.dev/icons?i=apacheairflow,apachespark,aws,dbt,git,github,linux" />
 </span>
