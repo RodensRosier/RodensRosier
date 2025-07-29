@@ -22,7 +22,8 @@
 
 <h3>Lenguajes</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=python,SQL" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <h3>SQL</h3>
 </span>
 
 <h3>Bases de Datos</h3>
@@ -32,5 +33,8 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=apacheairflow,apachespark,aws,dbt,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
+  <h3>Apache Airflow</h3>
+  <h3>Apache Spark</h3>
+  <h3>DBT</h3>
 </span>
