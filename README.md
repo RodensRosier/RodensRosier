@@ -35,8 +35,8 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,bigquery,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
   <h3>Apache Airflow</h3>
   <h3>Apache Spark</h3>
-  <h3>DBT</h3>
+  <h3>Google BigQuery</h3>
 </span>
