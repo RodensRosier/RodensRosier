@@ -35,7 +35,7 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,bigquery,linux" />
   <h3>Apache Airflow</h3>
   <h3>Apache Spark</h3>
   <h3>DBT</h3>
