@@ -4,7 +4,7 @@
 
 •Fundador & CEO de **[Opplu](https://opplu.com)**
 
-<h3>Estudiante de Ingeniería en Informática, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h3>
+<h4>Estudiante de Ingeniería en Informática, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h4>
 
 
 <br>
@@ -25,7 +25,7 @@
 <h3>Lenguajes</h3>
 <span>
   <img src="https://skillicons.dev/icons?i=python" />
-  <h3>SQL</h3>
+  <h4>SQL</h4>
 </span>
 
 <h3>Bases de Datos</h3>
@@ -36,7 +36,7 @@
 <h3> Herramientas & Tecnologías</h3>
 <span>
   <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
-  <h3>Apache Airflow</h3>
-  <h3>Apache Spark</h3>
-  <h3>Google BigQuery</h3>
+  <h4>Apache Airflow</h4>
+  <h4>Apache Spark</h4>
+  <h4>Google BigQuery</h4>
 </span>
