@@ -2,10 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=39FF14&duration=4000&lines=+¡Hola+a+todos+(as)!+👋;+¡Soy+Rodens+Rosier!;" />
 </h1>
 
+<h5>Analista de Datos, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h5>
+
 •Fundador de **[Opplu](https://opplu.com)** SPA
-
-<h4>Analista de Datos, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h4>
-
 
 <br>
 
