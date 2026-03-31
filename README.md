@@ -4,7 +4,7 @@
 
 •Fundador de **[Opplu](https://opplu.com)** SPA
 
-<h4>Estudiante de Ingeniería en Informática, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h4>
+<h4>Analista de Datos, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h4>
 
 
 <br>
