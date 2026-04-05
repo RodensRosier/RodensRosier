@@ -3,7 +3,7 @@
 </h1>
 
 <h5>
-    Soy un Analista de Datos con un enfoque técnico sólido en el ciclo de vida completo de los datos.
+    Soy Analista de Datos con un enfoque técnico sólido en el ciclo de vida completo de los datos.
     Me apasiona transformar datos complejos en información clara y accionable que impulse la toma de decisiones estratégicas. 
     Cuento con una base técnica robusta que me permite abordar desafíos de análisis desde la extracción y limpieza hasta la visualización             avanzada.
     Siempre estoy en búsqueda de nuevos retos donde pueda aplicar mi capacidad analítica para optimizar procesos y resolver problemas de negocios     complejos.
