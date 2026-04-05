@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h3>Lenguajes</h3>
+<h3>Lenguajes de Programación</h3>
 <span>
   <img src="https://skillicons.dev/icons?i=python" />
   <h4>SQL</h4>
@@ -32,12 +32,21 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </span>
 
-<h3> Herramientas & Tecnologías</h3>
+<h3>Big Data & Cloud</h3>
 <span>
     <h4>Apache Airflow</h4>
     <h4>Apache Spark</h4>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
     <h4>Google BigQuery</h4>
-    <h4>Microsoft Office</h4>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
+</span>
+
+<h3>Herramientas de Análisis</h3>
+<span>
+    <h4>Microsoft Office (Excel Avanzado)</h4>
     <h4>Tableau</h4>
+</span>
+
+<h3>Entornos & Control de Versiones</h3>
+<span>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </span>
