@@ -34,5 +34,10 @@
 
 <h3> Herramientas & Tecnologías</h3>
 <span>
-  <img src="https://skillicons.dev/icons?i=Airflow,Spark,gcp,git,github,BigQuery,linux,Office,Tableau" />
+    <h4>Apache Airflow</h4>
+    <h4>Apache Spark</h4>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
+    <h4>Google BigQuery</h4>
+    <h4>Microsoft Office</h4>
+    <h4>Tableau</h4>
 </span>
