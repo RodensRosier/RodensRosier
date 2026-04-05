@@ -34,16 +34,16 @@
 
 <h3>Big Data & Cloud</h3>
 <span>
-    <h4>Apache Airflow</h4>
-    <h4>Apache Spark</h4>
-    <h4>Google BigQuery</h4>
+    <h4>•Apache Airflow</h4>
+    <h4>•Apache Spark</h4>
+    <h4>•Google BigQuery</h4>
   <img src="https://skillicons.dev/icons?i=gcp" />
 </span>
 
 <h3>Herramientas de Análisis</h3>
 <span>
-    <h4>Microsoft Office (Excel Avanzado)</h4>
-    <h4>Tableau</h4>
+    <h4>•Microsoft Office (Excel Avanzado)</h4>
+    <h4>•Tableau</h4>
 </span>
 
 <h3>Entornos & Control de Versiones</h3>
