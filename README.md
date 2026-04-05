@@ -4,7 +4,7 @@
 
 <h5>Analista de Datos, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h5>
 
-Fundador de **[Opplu](https://opplu.com)** SPA
+Desarrollador de **[Opplu](https://opplu.com)** SPA
 
 <br>
 
