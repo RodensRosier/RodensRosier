@@ -37,7 +37,7 @@
     <h4>Apache Airflow</h4>
     <h4>Apache Spark</h4>
     <h4>Google BigQuery</h4>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
 </span>
 
 <h3>Herramientas de Análisis</h3>
