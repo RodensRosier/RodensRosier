@@ -4,7 +4,7 @@
 
 <h5>Analista de Datos, apasionado de la tenología y de la resolución de problemas complejos mediante el diseño de Algoritmos y la Programación.</h5>
 
-•Fundador de **[Opplu](https://opplu.com)** SPA
+Fundador de **[Opplu](https://opplu.com)** SPA
 
 <br>
 
@@ -24,7 +24,7 @@
 <h3>Lenguajes de Programación</h3>
 <span>
   <img src="https://skillicons.dev/icons?i=python" />
-  <h4>SQL</h4>
+  <h4>• SQL</h4>
 </span>
 
 <h3>Bases de Datos</h3>
@@ -34,16 +34,16 @@
 
 <h3>Big Data & Cloud</h3>
 <span>
-    <h4>•Apache Airflow</h4>
-    <h4>•Apache Spark</h4>
-    <h4>•Google BigQuery</h4>
+    <h4>• Apache Airflow</h4>
+    <h4>• Apache Spark</h4>
+    <h4>• Google BigQuery</h4>
   <img src="https://skillicons.dev/icons?i=gcp" />
 </span>
 
 <h3>Herramientas de Análisis</h3>
 <span>
-    <h4>•Microsoft Office (Excel Avanzado)</h4>
-    <h4>•Tableau</h4>
+    <h4>• Microsoft Office (Excel Avanzado)</h4>
+    <h4>• Tableau</h4>
 </span>
 
 <h3>Entornos & Control de Versiones</h3>
