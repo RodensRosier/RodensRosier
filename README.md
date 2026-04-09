@@ -21,7 +21,7 @@ Siempre estoy en búsqueda de nuevos retos donde pueda aplicar mi capacidad anal
 </div>
 
 ### Lenguajes de Programación
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" /> <br>
 **• SQL**
 
 ### Bases de Datos
