@@ -30,7 +30,7 @@ Siempre estoy en búsqueda de nuevos retos donde pueda aplicar mi capacidad anal
 ### Big Data & Cloud
 **• Apache Airflow** <br>
 **• Apache Spark** <br>
-**• Google BigQuery** <br><br>
+**• Google BigQuery** <br>
 <img src="https://skillicons.dev/icons?i=gcp" />
 
 ### Herramientas de Análisis
