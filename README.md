@@ -34,7 +34,7 @@ Siempre estoy en búsqueda de nuevos retos donde pueda aplicar mi capacidad anal
 <img src="https://skillicons.dev/icons?i=gcp" />
 
 ### Herramientas de Análisis
-**• Microsoft Office (Excel Avanzado) <br>
+**• Microsoft Office (Excel Avanzado)** <br>
 **• Tableau**
 ### Entornos & Control de Versiones
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
