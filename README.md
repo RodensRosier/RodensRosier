@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=39FF14&duration=4000&lines=+¡Hola+a+todos+(as)!+👋;+¡Soy+Rodens+Rosier!;" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=228b22&duration=4000&lines=+¡Hola+a+todos+(as)!+👋;+¡Soy+Rodens+Rosier!;" />
 
 **Soy Analista de Datos con un enfoque técnico sólido en el ciclo de vida completo de los datos.
 Me apasiona transformar datos complejos en información clara y accionable que impulse la toma de decisiones estratégicas. <br><br>
