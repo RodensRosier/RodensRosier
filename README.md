@@ -21,31 +21,20 @@ Siempre estoy en búsqueda de nuevos retos donde pueda aplicar mi capacidad anal
 </div>
 
 ### Lenguajes de Programación
-<span>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <h4>• SQL</h4>
-</span>
+<img src="https://skillicons.dev/icons?i=python" />
+**• SQL**
 
 ### Bases de Datos
-<span>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</span>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Big Data & Cloud
-<span>
-    <h4>• Apache Airflow</h4>
-    <h4>• Apache Spark</h4>
-    <h4>• Google BigQuery</h4>
-  <img src="https://skillicons.dev/icons?i=gcp" />
-</span>
+**• Apache Airflow** <br>
+**• Apache Spark** <br>
+**• Google BigQuery** <br>
+<img src="https://skillicons.dev/icons?i=gcp" />
 
 ### Herramientas de Análisis
-<span>
-    <h4>• Microsoft Office (Excel Avanzado)</h4>
-    <h4>• Tableau</h4>
-</span>
-
+**• Microsoft Office (Excel Avanzado) <br>
+**• Tableau**
 ### Entornos & Control de Versiones
-<span>
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
-</span>
